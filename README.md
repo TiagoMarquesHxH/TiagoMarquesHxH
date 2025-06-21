@@ -34,16 +34,20 @@
 <p align='center'> <a href="https://github.com/Sophlechim/Modelagem-in-silico-de-plataformas-microbianas-em-escala-gen-mica.git"> ❤️ Modeling bioplastic production through genomic models </a>   <a href="https://github.com/TiagoMarquesHxH/Aprendizado_de_Maquinas.git"> 💙 Applying ML to predict a material's properties </a>   <a href="https://github.com/TiagoMarquesHxH/Kinetic-Chemistry.git"> 💛 A simulation of Kinetic Chemistry by atoms collisions </a>   <a href="https://github.com/Leprechas/TCC_Tuberculose.git"> 💚 Mathematical Epidemiology Modeling of the Tuberculosis in Brazil </a>    <a href="https://github.com/TiagoMarquesHxH/SIR-Model-with-vital-dynamics-applied-on-dengue-epidemiology-in-Campinas-Brazil.git"> 🩵 SIR Model applied to the Dengue Fever in Campinas - Brazil </a>    <a href="https://github.com/TiagoMarquesHxH/Advanced-Thermodynamics.git"> 💜 Thermodynamics experiments of fuel mixtures </a>
 </p>
 
+
 <h4> ⚡ Interests </h4>
+
+---------------
 
 - Astronomy
 - Applications of <b>Machine learning</b> into materials and physical properties
 - Protein structure predictions using $${\color{red} Alphafold}$$
-  
+
 
 <h4> 🧰 Some tools i learned, used or played around</h4>
 
 ------------
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,cpp,arduino,bash,latex,matlab,mint,pytorch,robloxstudio,ubuntu,vscode,windows)](https://skillicons.dev)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)    ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
