@@ -10,7 +10,7 @@
 
 <h6> 📚 Studied but didn't finish undergraduate courses such as Computer Science at the Federal University of the ABC Paulista (UFABC) and Mechatronics Engineering in the Federal University of São João del Rei (UFSJ). </h6>
 
-<h6> :atom: I will keep pursuing an academic life, and start a Master's degree and later a Ph.D</h6>
+<h6> :atom: Pursuing an academic life, aiming at a Master's degree and later a Ph.D</h6>
 
 ---------------
 
