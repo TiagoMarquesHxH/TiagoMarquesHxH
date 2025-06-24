@@ -42,6 +42,7 @@
 - Astronomy
 - Applications of <b>Machine learning</b> into materials and physical properties
 - Protein structure predictions using $${\color{red} Alphafold}$$
+- Learning new programming languages
 
 
 <h4> 🧰 Some tools i learned, used or played around</h4>
