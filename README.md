@@ -19,7 +19,7 @@
 -----------------
 <div style="display: flex; flex-direction: row;">
   <img class="img" src="https://github-readme-stats.vercel.app/api?username=TiagoMarquesHxH&theme=nightowl&show_icons=true&include_all_commits=true"/>
-  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoMarquesHxH&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoMarquesHxH&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&langs_count=20&layout=compact&size_weight=0&count_weight=1"/>
 </div>
 
 <h4> Some projects i worked on</h4>
